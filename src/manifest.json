@@ -1,0 +1,7 @@
+{
+  "name": "Ballin'",
+  "short_name": "Ballin'",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait"
+}
