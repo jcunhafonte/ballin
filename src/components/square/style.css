@@ -1,0 +1,9 @@
+.square {
+    position: absolute;
+    transition: all .15s ease-in-out;
+}
+
+.square svg {
+    height: 100%;
+    width: 100%;
+}

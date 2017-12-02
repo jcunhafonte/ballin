@@ -1,0 +1,18 @@
+.scoreboard {
+    position: absolute;
+    top: 84px;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    transition: ease-in-out;
+}
+
+.scoreboard__resume {
+    display: flex;
+    justify-content: space-between;
+    width: 160px;
+}
+
+.scoreboard__resume > div {
+    text-align: center;
+}

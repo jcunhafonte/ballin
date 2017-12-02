@@ -1,13 +1,11 @@
-import { h, Component } from 'preact';
-
-import Header from './header';
+import { Component } from 'preact';
+import Scene from './scene/index';
 
 export default class App extends Component {
-
 	render() {
 		return (
 			<div id="app">
-				<Header />
+				<Scene />
 			</div>
 		);
 	}

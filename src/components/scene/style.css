@@ -1,0 +1,17 @@
+.scene__stage {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: white;
+}
+
+.scene__background {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 510px;
+    height: 510px;
+    filter: blur(40px);
+}
