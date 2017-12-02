@@ -1,5 +1,7 @@
 # Ballin'
 
+A funny arcade game inspired on Impossible Rush.
+
 ## Requirements
 * node
 * yarn or npm
