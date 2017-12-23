@@ -32,7 +32,7 @@ While developing, you will probably rely mostly on `yarn start`; however, there 
 
 ## License
 
-MIT © [jcunhafonte](mailto:jose.fonte@pt.bosch.com)
+MIT © [jcunhafonte](mailto:jcunhafonte@gmail.com)
 
 Built with :heart: by [jcunhafonte](https://jcunhafonte.com)
 
